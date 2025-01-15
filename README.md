@@ -1,3 +1,3 @@
 # Insaan
 <br>
-Auth - Aijaz UR Rehman
+Auth - Aijaz Ur Rehman
